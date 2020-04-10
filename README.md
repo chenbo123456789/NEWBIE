@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## hello,handsome man or beautiful girl!
 
 You can use the [editor on GitHub](https://github.com/chenbo123456789/NEWBIE/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
