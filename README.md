@@ -7,7 +7,7 @@ You can click the [About me](https://github.com/chenbo123456789/NEWBIE/edit/mast
 
 ## 学习笔记
 ## 学习代码
-### 学习心得
+## 学习心得
 
 - Bulleted
 - List
@@ -19,6 +19,9 @@ You can click the [About me](https://github.com/chenbo123456789/NEWBIE/edit/mast
 
 [Link](url) and ![Image](src)
 ```
+
+[editor on GitHub](https://github.com/chenbo123456789/NEWBIE/edit/master/README.md).
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
