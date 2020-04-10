@@ -1,19 +1,13 @@
-## hello,handsome man or beautiful girl!
+# Hello!
+# handsome man or beautiful girl
 
-You can use the [editor on GitHub](https://github.com/chenbo123456789/NEWBIE/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can click the [About me](https://github.com/chenbo123456789/NEWBIE/edit/master/README.md) to know me.>.<
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+## 学习笔记
+## 学习代码
+### 学习心得
 
 - Bulleted
 - List
